@@ -1,0 +1,7 @@
+
+{
+  "name": "jamesjinnz/sortbyfield",
+    "license": "MIT",
+    "description": "craftcms plugin for craft sortbyfield",
+    "type": "craft-plugin"
+}
